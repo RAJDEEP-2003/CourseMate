@@ -1,6 +1,6 @@
 # Student Registration System
 
-This Python-based Student Registration System allows admins to manage students and courses, and enables students to register and manage their courses. Data is stored using a file-based approach.The fact that i made this for my school project.
+I developed a Python-based Student Registration System. This application provides an intuitive platform for admins to manage students and courses while allowing students to register and manage their own courses. Data storage is implemented using a file-based approach for simplicity and efficiency.
 
 ![Screenshot](./mock5.png) 
 
@@ -104,7 +104,7 @@ This class manages the registration system, providing methods for student regist
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact the repository owner via [LinkedIn](https://www.linkedin.com/in/fitsum-helina-57164828a/).
+For any questions or suggestions, please open an issue .
 
 ## License
 
